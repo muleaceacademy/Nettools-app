@@ -4,6 +4,22 @@ The Net Tools API is a deployable Mule app that you can deploy to CloudHub or an
 
 This supports HTTP and HTTPS connections with a configurable port for each.
 
+---
+
+## YouTube Tutorial
+
+Watch the complete walkthrough here:
+
+<a href="https://www.youtube.com/watch?v=ZQrAEKE7Fcw" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.youtube.com/vi/ZQrAEKE7Fcw/maxresdefault.jpg" 
+    alt="Watch the YouTube video" 
+    width="700"
+  />
+</a>
+
+---
+
 ## Features
 
 - DNS lookups
